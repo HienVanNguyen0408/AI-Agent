@@ -1,0 +1,22 @@
+[project]
+name = "ai-gen"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "HienVanNguyen0408",email = "hien.van.nguyen0408@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.10,<4.0"
+
+dependencies = [
+    "pyyaml (>=6.0.2,<7.0.0)",
+    "dotenv (>=0.9.9,<0.10.0)",
+    "langgraph (>=0.4.7,<0.5.0)",
+    "langchain-google-genai (>=2.1.5,<3.0.0)",
+    "discord (>=2.3.2,<3.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

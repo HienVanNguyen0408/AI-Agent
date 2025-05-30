@@ -1,0 +1,58 @@
+# Cline's Project Intelligence Rules
+
+## Project: [Tên dự án]
+
+---
+
+### 1. Các đường dẫn triển khai quan trọng (Critical Implementation Paths)
+
+*   **Mô tả:** (Mô tả một quy trình hoặc luồng công việc quan trọng trong dự án)
+    *   **Pattern/Rule:** (Ghi lại các bước chính, logic hoặc các thành phần liên quan)
+    *   **Lưu ý:** (Bất kỳ điểm đặc biệt nào cần lưu ý)
+
+---
+
+### 2. Sở thích và quy trình làm việc của người dùng (User Preferences and Workflow)
+
+*   **Sở thích:** (Ví dụ: "Người dùng thích các commit message theo chuẩn Conventional Commits")
+    *   **Pattern/Rule:** (Mô tả cụ thể sở thích)
+*   **Quy trình làm việc:** (Ví dụ: "Luôn chạy linting và tests trước khi push code")
+    *   **Pattern/Rule:** (Các bước trong quy trình làm việc)
+
+---
+
+### 3. Các mẫu đặc thù của dự án (Project-Specific Patterns)
+
+*   **Mô tả:** (Một mẫu code, cấu trúc thư mục, hoặc quy ước đặt tên đặc thù của dự án)
+    *   **Pattern/Rule:** (Mô tả chi tiết mẫu đó)
+    *   **Ví dụ:**
+        ```
+        // Code ví dụ (nếu có)
+        ```
+
+---
+
+### 4. Các thách thức đã biết (Known Challenges)
+
+*   **Thách thức:** (Mô tả một thách thức hoặc vấn đề thường gặp trong dự án)
+    *   **Giải pháp/Cách tiếp cận:** (Cách giải quyết hoặc giảm thiểu thách thức đó)
+    *   **Lưu ý:**
+
+---
+
+### 5. Sự phát triển của các quyết định dự án (Evolution of Project Decisions)
+
+*   **Quyết định ban đầu:** (Mô tả một quyết định quan trọng đã được đưa ra)
+    *   **Lý do:**
+    *   **Thay đổi (nếu có):** (Mô tả quyết định đã thay đổi như thế nào theo thời gian)
+    *   **Lý do thay đổi:**
+
+---
+
+### 6. Các mẫu sử dụng công cụ (Tool Usage Patterns)
+
+*   **Công cụ:** (Tên công cụ, ví dụ: Docker, Git, một thư viện cụ thể)
+    *   **Pattern/Rule:** (Cách công cụ đó thường được sử dụng trong dự án này)
+    *   **Lệnh thường dùng:** (Nếu là CLI tool)
+
+---

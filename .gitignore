@@ -1,0 +1,39 @@
+# Môi trường ảo
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Editor config
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Biến môi trường
+.env
+.env.*
+
+# File cấu hình riêng tư
+config/config.yaml
+config/*.yaml
+!config/template.yaml   # (giữ lại bản mẫu cấu hình nếu có)
+*config/*.yaml
+*config.yaml
+
+# Dữ liệu / checkpoint / output
+data/
+*.db
+*.sqlite3
+*.log
+
+# Poetry lock file (nếu dùng pip)
+poetry.lock
+
+# Jupyter notebook checkpoint
+.ipynb_checkpoints/
