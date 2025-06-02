@@ -7,6 +7,9 @@ authors = [
 ]
 readme = "README.md"
 requires-python = ">=3.10,<4.0"
+packages = [
+    {include = "src"}
+]
 
 dependencies = [
     "pyyaml (>=6.0.2,<7.0.0)",
